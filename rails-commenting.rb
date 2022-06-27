@@ -65,7 +65,7 @@ class BlogPostsController < ApplicationController
       # This states that if the specifc post to delete is not specified then redirect the user to the page they where just on.
       redirect_to blog_post_path(@post)
     end
-  end
+  end 
 
   # ---9)
   # Everything underneath the key word private is considered strong params which sets the standard for which params are permitted for the user to edit. 
