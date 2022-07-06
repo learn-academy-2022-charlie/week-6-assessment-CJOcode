@@ -69,8 +69,7 @@ action: "DELETE" location: /students/2
 
 5) As a mother, I would like to have to login every time, so my children don't mess with my schedule
 
-6) As a mechanic, I would like to have a section where I can enter client names with there scheduled date, so that I can easily remember who is scheduled.
-
+6) As a mechanic, I would like to have a section where I can enter client names with there scheduled date, so that I can easily rememb 
 7) As a barber, I would like to have a spot where I can enter contact information, so that I can easily be in contact with my clients.
 
 8) As a restaurant owner, I would like to keep track owner my weekly shipments of food, so that I know when to record inventory.

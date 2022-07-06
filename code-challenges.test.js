@@ -159,7 +159,7 @@ describe ("cubed", () => {
    
 const cubed = (array) => {
   let final = 0;
-
+ 
   for(let i=0;i<array.length;i++) {
     
     let cubed = Math.pow(array[i], 3);
